@@ -1,4 +1,3 @@
-# Valencian Listener
 
 ## Support
 
@@ -8,12 +7,16 @@ If you have questions, feedback, or need assistance, contact:
 
 ## Privacy Policy
 
-Valencian Listener processes audio that you choose to record in order to provide conversation summaries and translations.
+Valencian Listener processes audio that users choose to record in order to provide conversation summaries and translations.
 
-Audio is securely processed by OpenAI to provide the app’s functionality.
+Recorded audio and transcribed text may be securely transmitted to OpenAI for processing.
 
-The app does not sell your personal information.
+Valencian Listener does not sell personal information and does not use recorded content for advertising.
 
-For privacy questions, contact:
+Users are responsible for ensuring they have any permission required to record and process conversations involving other people.
+
+Microphone access can be disabled at any time through the iPhone’s Settings app.
+
+For support or privacy questions, contact:
 
 [gfndlay1999@gmail.com](mailto:gfndlay1999@gmail.com)
