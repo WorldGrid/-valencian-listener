@@ -13,7 +13,3 @@ Valencian Listener processes audio that you choose to record in order to provide
 Audio is securely processed by OpenAI to provide the app's functionality.
 
 The app does not sell your personal information.
-
-For privacy questions, contact:
-
-your@email.com
