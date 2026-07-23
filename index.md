@@ -1,22 +1,23 @@
+Support
 
-## Support
+For questions, feedback, technical support, or privacy enquiries, contact:
 
-If you have questions, feedback, or need assistance, contact:
+gfndlay1999@gmail.com⁠￼
 
-[gfndlay1999@gmail.com](mailto:gfndlay1999@gmail.com)
+Privacy Policy
 
-## Privacy Policy
+Escolta processes audio that users choose to record in order to provide conversation summaries, translations, pronunciation guidance, and suggested responses.
 
-Valencian Listener processes audio that users choose to record in order to provide conversation summaries and translations.
+Recorded audio and transcribed text may be securely transmitted to OpenAI for transcription, translation, and interpretation.
 
-Recorded audio and transcribed text may be securely transmitted to OpenAI for processing.
+Audio files created by the app are intended to be temporary and are deleted from the device after processing. Conversation cards and translations may remain visible during the current app session until they are cleared or the session ends.
 
-Valencian Listener does not sell personal information and does not use recorded content for advertising.
+Escolta does not sell personal information and does not use recorded content for advertising.
 
-Users are responsible for ensuring they have any permission required to record and process conversations involving other people.
+Users are responsible for ensuring they have any permission required to record or process conversations involving other people.
 
 Microphone access can be disabled at any time through the iPhone’s Settings app.
 
-For support or privacy questions, contact:
+For support or privacy enquiries, contact:
 
-[gfndlay1999@gmail.com](mailto:gfndlay1999@gmail.com)
+gfndlay1999@gmail.com⁠￼
